@@ -1,0 +1,16 @@
+{
+  "name": "initial-package",
+  "version": "1.0.0",
+  "main": "dist/initial-package.cjs.js",
+  "module": "dist/initial-package.esm.js",
+  "author": "mattcompiles",
+  "license": "MIT",
+  "files": [
+    "/dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "FILL ME IN",
+    "directory": "packages/initial-package"
+  }
+}
